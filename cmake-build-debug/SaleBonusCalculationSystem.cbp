@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SaleBonusCalculationSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SaleBonusCalculationSystem">
+				<Option output="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/SaleBonusCalculationSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw-18.0\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\mingw-18.0\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\mingw-18.0\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 SaleBonusCalculationSystem"/>
+					<CompileFile command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SaleBonusCalculationSystem/fast">
+				<Option output="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/SaleBonusCalculationSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw-18.0\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\mingw-18.0\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\mingw-18.0\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 SaleBonusCalculationSystem/fast"/>
+					<CompileFile command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-18.0/MinGW/bin/mingw32-make.exe -f &quot;D:/C-C++-code/C/SaleBonusCalculationSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/C-C++-code/C/SaleBonusCalculationSystem/main.c">
+			<Option target="SaleBonusCalculationSystem"/>
+		</Unit>
+		<Unit filename="D:/C-C++-code/C/SaleBonusCalculationSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\SaleBonusCalculationSystem.dir/objects.a
+D:\mingw-18.0\MinGW\bin\ar.exe qc CMakeFiles\SaleBonusCalculationSystem.dir/objects.a @CMakeFiles\SaleBonusCalculationSystem.dir\objects1.rsp
+D:\mingw-18.0\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\SaleBonusCalculationSystem.dir/objects.a -Wl,--no-whole-archive -o SaleBonusCalculationSystem.exe -Wl,--out-implib,libSaleBonusCalculationSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SaleBonusCalculationSystem.dir\linkLibs.rsp

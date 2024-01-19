@@ -1,0 +1,9 @@
+# Annual Sales Statistics and Bonus Distribution System
+
+In response to the increasing demands of an expanding market, businesses increasingly seek solutions for comprehensive sales management and efficient employee bonus calculations. Addressing this need, we present our Annual Sales Statistics and Bonus Distribution System for Enterprise Employees project—a swift and user-friendly tool designed to empower companies in handling sales statistics and f bonus distribution on an annual basis.
+By analyzing the requirements, more specific needs are focused on, in addition to basic data processing. Unique bonus systems as well as some honor systems are also special ways of encouraging employees in modern companies.
+The Annual Sales Statistics and Bonus Distribution System offers essential features such as sales statistics and bonus distribution, providing a solid foundation for managing the overall sales performance of the organization. Beyond these fundamental functionalities, the platform introduces customized features like Quarter Stars and Sales Stars, adding a layer of customization to meet specific business requirements.
+The algorithms were optimized as the requirements progressed. At the same time, the Annual Sales Statistics and Bonus Distribution System also considers better user interaction, thus iterating to better serve the company. This iterative refinement process ensures that the Annual Sales Statistics and Bonus Distribution System aligns seamlessly with the evolving needs of businesses, delivering not just efficient solutions but also a heightened user experience. The report will delve into the details, covering requirements analysis, overarching design principles, algorithmic, debugging and enhancement strategies, and testing methodologies. 
+Test environment:
+IDE: Clion2023.2
+Compiler: MinGW-w64 11.2.0
